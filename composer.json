@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "require": {
         "omiroshnichenko/product": "1.0.0",
-        "omiroshnichenko/ext": "1.0.0"
+        "omiroshnichenko/ext": "*"
     },
     "version": "1.0.0"
 }
