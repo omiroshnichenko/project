@@ -1,0 +1,18 @@
+{
+    "name": "omiroshnichenko/project",
+    "description": "Project metapackage",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oleksandr Miroshnichenko",
+            "email": "miroshni@adobe.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "omiroshnichenko/product": "1.0.0",
+        "omiroshnichenko/ext": "1.0.0"
+    },
+    "version": "1.0.0"
+}
